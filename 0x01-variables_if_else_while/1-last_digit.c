@@ -4,8 +4,8 @@
 
 /**
  * main - Entry point
- * Description: print status of value of n: 
- * 		is not less than 6, greater than and is zero
+ * Description: print status of value of n:
+ *	is not less than 6, greater than and is zero
  *
  * Return: Always 0 (Success)
  */
