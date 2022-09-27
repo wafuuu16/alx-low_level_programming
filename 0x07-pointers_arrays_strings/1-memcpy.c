@@ -1,5 +1,5 @@
 /**
- * _memcpy - function that copies memory area 
+ * _memcpy - function that copies memory area
  *
  * @dest: buffer where we will copy to
  * @src: what we are to copy
